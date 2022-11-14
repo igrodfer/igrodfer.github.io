@@ -1,0 +1,12 @@
+plugins: 
+  -jekyll-theme-hamilton
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+
+title: Nacho Rodríguez Ferrero
+description: Personal blog and projects.
+author: Ignacio Rodríguez Ferrero
+avatar: /logo.png
+email: igrodfer@gmail.com
+
+google_analytics:
