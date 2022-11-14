@@ -1,0 +1,3 @@
+[submodule "projects/GPC"]
+	path = projects/GPC
+	url = https://github.com/igrodfer/GPC.git
