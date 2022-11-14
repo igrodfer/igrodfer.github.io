@@ -1,5 +1,11 @@
 - title: Graphics
-  sublinks:
+  sublinks:    
+  - title: Part 1
+      url: /projects/GPC/practica1.html
+    - title: Part 2
+      url: /projects/GPC/practica2.html
+    - title: Part 3
+      url: /projects/GPC/practica3.html
     - title: Version 4
       url: /projects/GPC/practica4.html
     - title: Version 5
